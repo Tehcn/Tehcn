@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, GitHub!
 
-<!--
-**Tehcn/Tehcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Noah Perry and I am a 15 year old frontend web developer! (I only do fullstack development on my personal projects as of now)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I live in the midwestern United States, specifically, Wisconsin.
+
+Originally, when I first started to learn to code, my end goal was making a mod for Minecraft, and while I've already achieved this goal, the process was one, and still is, one of the most eye opening experiences of my life. I discovered a whole new world of developing website, apps, and games.
+
+Ever since, I've been programming nearly every day, improving my coding, and learning new ways to solve problems.
+
+## GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tehcn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tehcn&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
