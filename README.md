@@ -12,7 +12,7 @@ Ever since, I've been programming nearly every day, improving my coding, and lea
 
 ## GitHub Stats
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=Tehcn)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Tehcn)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tehcn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
